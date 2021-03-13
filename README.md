@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://velog.io/@Yeonlisa
+https://velog.io/@yeonlisa
 <!--
 **Yeonlisa/Yeonlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
