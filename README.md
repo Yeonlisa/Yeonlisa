@@ -1,6 +1,9 @@
-### Hi there 👋
+## 노력하고 도전하는 개발자 Yeonlisa 👋
 
-https://velog.io/@yeonlisa
+### 공부다짐이자 띵언 : 공부는 풀스택 포지션은 알아서
+
+
+그녀의 첫 블로그 : https://velog.io/@yeonlisa
 <!--
 **Yeonlisa/Yeonlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
