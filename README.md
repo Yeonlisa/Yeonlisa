@@ -6,7 +6,7 @@
 
 ### 좌우명 : 느리더라도 차근차근 배워나가자..! 
 
-그녀의 수강생 시절 블로그 : https://velog.io/@yeonlisa
+그녀의 블로그 : https://velog.io/@yeonlisa
 <!--
 **Yeonlisa/Yeonlisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
