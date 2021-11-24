@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Stacks
+**[ 프로그래밍 언어 ]**  HTML, CSS, JavaScript(ES6+)
+
+**[ 프레임워크 & 라이브러리 ]**  React(Hooks), Styled-Components
+
+**[ Knowledgeable ]** Redux, Node.js, Express
+
+**[ Others ]** Git
