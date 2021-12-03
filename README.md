@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### Stacks
 **[ 프로그래밍 언어 ]**  HTML, CSS, JavaScript(ES6+)
 
-**[ 프레임워크 & 라이브러리 ]**  React(Hooks), Styled-Components
+**[ 프레임워크 & 라이브러리 ]**  React(Hooks), Redux, Styled-Components
 
-**[ Knowledgeable ]** Redux, Node.js, Express
+**[ Knowledgeable ]**  Node.js, Express
 
 **[ Others ]** Git
