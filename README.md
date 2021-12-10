@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 **[ Knowledgeable ]**  Node.js, Express
 
 **[ Others ]** Git
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonlisa&show_icons=true&theme=tokyonight)
