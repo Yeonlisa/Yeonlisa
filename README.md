@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **[ 프레임워크 & 라이브러리 ]**  React(Hooks), Redux, Styled-Components
 
-**[ Knowledgeable ]**  Node.js, Express
+**[ Knowledgeable ]**  Node.js, Express, MySQL, MongoDB
 
 **[ Others ]** Git
 
