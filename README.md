@@ -5,7 +5,7 @@
 ### 좌우명 : 느리더라도 차근차근 배워나가자..! 
 
 ### Contact me
-<a href="https://velog.io/@yeonlisa"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> <a href="mailto:tkzw4869@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://velog.io/@yeonlisa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> <a href="mailto:tkzw4869@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Stacks
 #### [ 프로그래밍 언어 ]
