@@ -4,8 +4,6 @@
 
 ### 좌우명 : 느리더라도 차근차근 배워나가자..! 
 
-
-<div align="center">
   
 ## Contact me
 <a href="https://velog.io/@yeonlisa" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a> <a href="mailto:tkzw4869@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -25,7 +23,6 @@
 
 <!-- ### Scheduled to learn Stack
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
-</div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonlisa%2Fhit-counter&count_bg=%23F36FFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeonlisa&show_icons=true&theme=tokyonight)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonlisa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
